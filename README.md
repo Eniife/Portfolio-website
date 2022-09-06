@@ -5,7 +5,7 @@ This is my portfolio website.
 ## Installation
 
 ```
-git clone
+git clone https://github.com/Eniife/Portfolio-website.git
 ```
 
 ## Technologies used
