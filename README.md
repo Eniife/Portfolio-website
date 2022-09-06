@@ -12,3 +12,4 @@ git clone https://github.com/Eniife/Portfolio-website.git
 
 - HTML
 - CSS
+- JAVASCRIPT
